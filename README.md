@@ -5,4 +5,4 @@ WikiLeaks2MySQL
  
  You can grab the cable file from http://archive.org/details/wikileaks-cables-csv. 
  
- Feel free to modify and amend! A database with the name 'wikileak' is required, than again feel free to change. Enjoy!
+ Purely done for educational purposes so feel free to experiment, modify and amend! A database with the name 'wikileak' is required, than again feel free to change. Enjoy!
